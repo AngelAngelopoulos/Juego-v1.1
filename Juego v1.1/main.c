@@ -139,7 +139,7 @@ int createNodeSprite(LIST_SPRITE *newSprite, int x, int y, int visibility)  //fu
 
 //**************************************************************
 
-int searchArchive(char nameFile[], char message[])
+int searchArchive(char nameFile[], char message[])  //Esta funcion busca un archivo y verifica su existencia
 {
     int res;
     FILE *file;
@@ -161,7 +161,7 @@ int searchArchive(char nameFile[], char message[])
 
 void loadStageArchive(char nameStageFile[])
 {
-    int res;
+    int res, i;
     char messageError[40];
     FILE *fileStage;
     res = searchArchive(nameStageFile, messageError);
@@ -172,7 +172,7 @@ void loadStageArchive(char nameStageFile[])
 
         if (fileStage)
         {
-
+            for ()
         }
     }
 }
