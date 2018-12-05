@@ -1,0 +1,9 @@
+Universidad Autonoma de San Luis Potosi 
+         Facultad de Ingeneria
+  Area de Ciencias de la Computacion
+  Ingenieria en Sistemas Inteligentes
+         Estructuras de datos II
+         Proyecto Final: Avalon
+   Luis Angel Alvarado Hernandez 
+	        276094
+  Presiona Esc para regresar al menu

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1544019073 source:c:\users\angel alvarado\documents\github\juego-v1.1\juego v1.1\main.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	"GRID.h"
+	"MENU.h"
+
+1266119414 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1544018706 c:\users\angel alvarado\documents\github\juego-v1.1\juego v1.1\grid.h
+
+1544018983 source:c:\users\angel alvarado\documents\github\juego-v1.1\juego v1.1\sprites_grid.c
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	"GRID.h"
+	"LIB01.h"
+	<cstdlib>
+	<time.h>
+	"MENU.h"
+
+1542873906 source:c:\users\angel alvarado\documents\github\juego-v1.1\juego v1.1\menu_first.c
+
+1544018820 source:c:\users\angel alvarado\documents\github\juego-v1.1\juego v1.1\menu_principal.c
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"MENU.h"
+
+1543952163 c:\users\angel alvarado\documents\github\juego-v1.1\juego v1.1\menu.h
+
+1536347114 c:\users\angel alvarado\documents\github\juego-v1.1\juego v1.1\lib01.h
+

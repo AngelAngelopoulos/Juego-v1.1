@@ -1,0 +1,18 @@
+Bienvenido a Avalon!
+Esta es la seccion de ayuda, aqui podrás saber 
+que controles seran usados para poder pasarte 
+el juego!! 
+
+La barra de estado te ayudara a conocer tus 
+estadisticasen la barra de vida podras ver 
+cual es tu estado actual. Ten cuidado de no 
+terminar tus vidas! o tendrás que iniciar 
+desde el principio
+
+Usa las flechas para moverte, intenta tomar 
+las tunas para ganar puntos, aunque si tocas 
+los cactus, estos seran reducidos
+
+Y alejate de la flor, para no perder vidas!!
+
+(PRESIONA ESC PARA REGRSAR AL MENU)

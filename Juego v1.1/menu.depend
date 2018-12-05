@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1543450818 source:c:\temp\delete\prog\menu\menu_principal.c
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1266119414 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1543942952 source:c:\users\angel alvarado\documents\github\juego-v1.1\juego v1.1\menu_principal.c
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"MENU.h"
+
+1543942419 c:\users\angel alvarado\documents\github\juego-v1.1\juego v1.1\menu.h
+
